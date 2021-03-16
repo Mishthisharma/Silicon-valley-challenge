@@ -1,0 +1,19 @@
+body 
+{
+    background-image:url("Images/download.jpg") 
+
+}
+.game
+{
+    width : 1000 ;
+    height:900 ;
+    position : relative ;
+    left : 70px ; bottom:-300px
+}
+.faq
+{
+   width: 1000;
+   height: 900
+   position relative ;
+   left:80px ; bottom:-100px
+}
